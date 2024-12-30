@@ -1,0 +1,155 @@
+@media only screen and (min-width:200px) and (max-width:575px) {
+
+    .header-mid {
+        justify-content: center;
+    }
+
+
+
+    .headerright {
+        display: flex;
+        position: fixed;
+        bottom: 0px;
+        gap: 20px;
+    }
+
+    .section-inner {
+        flex-direction: column;
+    }
+
+    .bgbanner {
+    display: none;
+    }
+
+    .section-inner {
+        width: 90%;
+        margin: auto;
+    }
+
+    .banner-form>form {
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px 3px #ccc;
+    }
+
+    .section-4 {
+        width: 90%;
+        margin: auto;
+    }
+
+    .mid {
+        width: 90%;
+        margin: auto;
+    }
+
+    .button-3 {
+        margin-left: 150px;
+    }
+
+    .items {
+        flex-basis: 98%;
+        gap: 2%;
+    }
+
+    .section-5content {
+        width: 100%;
+        flex-wrap: wrap;
+        border: 0.5px solid red;
+        margin: 0px;
+    }
+
+    .section-5content1 {
+        flex-basis: 98%;
+        margin: 0px;
+
+
+
+    }
+.section-6mid{
+    flex-direction: column;
+}
+.section-6certificate{
+    background: none;
+}
+.section-7mid{
+    flex-direction: column;
+}
+.section-7mid ul{
+    flex-wrap: wrap;
+}
+.button-6{
+    margin-left: 150px;
+}
+.section-8midr1{
+    flex-basis: 96%;
+}
+.button-7{
+    margin-left: 150px;
+}
+.section-9mid2{
+    flex-direction: column;
+    gap: 20px;
+
+    
+}
+.section-9midleft{
+    flex-basis: 100%;
+
+}
+.section-3mid{
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.section-3mid1{
+    flex-basis: 46%;
+    padding-top: 10px;
+    padding-left: 20px;
+
+}
+.section-10midchild{
+    padding-left: 10px;
+    
+    
+    
+}
+.section-10mid1{
+    gap: 0px;
+    width: 497px;
+    height: 280px;
+    
+}
+.section-10mid h3{
+    font-size: 20px;
+}
+.section-10mid2{
+    width: 497px;
+}.button-9{
+    margin-left: 150px;
+}
+.section-10mid1 i{
+    font-size: 12px;
+}
+.section-10mid1 h3{
+    padding-top: 0px;
+}
+.section-10mid1 i{
+    padding-bottom: 140px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.button-10{
+    margin-left: 0px;
+}
+.section-9mid3r2 h3{
+    padding-top: 10px;
+    font-size: 25px;
+}
+    
+    
+
+
+
+
+
+}
